@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+    font-size: 20px;
+}
+form{
+    width: 500px;
+    background-color: pink;
+    padding: 20px;
+    border-radius: 20px;
+}
+form input{
+    width: 220px;
+    padding: 10px;
+    background-color: hotpink;
+    border: 0px solid;
+    border-radius: 5px;
+}
+form button{
+    padding: 10px;
+    background-color: gray;
+    border: 0px solid;
+    border-radius: 3px;
+    color: hotpink;
+
+}
